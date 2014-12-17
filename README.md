@@ -3,6 +3,9 @@ cURL
 
 A simple curl OO wrapper.
 
+installation :
+add nicolus/curl to your composer.json
+
 usage examples : 
 
 ```php
