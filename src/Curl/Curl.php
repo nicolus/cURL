@@ -1,5 +1,5 @@
 <?php
-namespace PVT\HTTP;
+namespace Curl;
 
 use \Exception;
 
